@@ -62,7 +62,7 @@ Here are a few tools and languages that I have worked with. I am not stating I m
 
 [<img src ="https://img.shields.io/badge/website-%23.svg?&style=for-the-badge&logo=www&logoColor=white%22&color=black">](https://kwundram2602.github.io/)
 
-[<img src="https://img.shields.io/badge/linkedin-%2312100E.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=black" />](www.linkedin.com/in/kjell-wundram-2508641b7)
+[<img src="https://img.shields.io/badge/linkedin-%2312100E.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=black" />](https://www.linkedin.com/in/kjell-wundram-2508641b7)
 </p>
 
 <a href="https://github.com/stats-organization/github-stats-extended"><img align="center" src="https://github-stats-extended.vercel.app/api/top-langs/?username=kwundram2602&layout=compact&theme=buefy&hide_border=true&hide=html,css,scss" alt="Kjell's most used languages" /></a>

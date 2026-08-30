@@ -1,17 +1,19 @@
 ### Hello, I'm [Kjell Wundram](https://kwundram2602.github.io/) 👋
 
-I am currently enrolled in the M.Sc. Applied Earth Observation and Geoanalysis
+I am currently enrolled in the M.Sc. Applied Earth Observation and Geoanalysis in Würzburg, Germany.
+Before that I graduated in Geoinformatics in Münster, Germany.
 
-
-**My Research Interest**:
+**My Research/Work Interests**:
 - Deep Learning in Earth Observation
-- 
- **I am open to**:
+- Earth Observation for Natural Hazards
 
-- (research) internships 
+**I'm open to**:
+
+- (research) internships
+- roles in geospatial / Earth Observation
 
 ## Skills:
-Here are a few tools and languages that I have worked with. I am not stating I mastered them ofcourse.
+Here are a few tools and languages that I have worked with. I am not stating I mastered them, of course.
 #### Languages:
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)&nbsp;

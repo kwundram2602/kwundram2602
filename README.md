@@ -58,7 +58,7 @@ Here are a few tools and languages that I have worked with. I am not stating I m
 
 
 
-## Connect with me:
+## Contact:
 
 <p align = "center">
 
